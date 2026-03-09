@@ -1,0 +1,25 @@
+{
+  "name": "Waverider Buscador",
+  "short_name": "Waverider",
+  "description": "Tu buscador privado con Gideon IA integrada",
+  "start_url": "/Waverider-/index.html",
+  "scope": "/Waverider-/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
